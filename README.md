@@ -1,3 +1,3 @@
 # tatcolabir
 
-firs look - 1.2
+--first look - 1.2
